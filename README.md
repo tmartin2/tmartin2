@@ -1,10 +1,12 @@
-### Hey!
+### Hey there!
 
-My name is Trevor and I am currently an undergraduate student at Oberlin College. I am 
-studying Neuroscience and Mathematics. 
-- I'm currently trying to maintain and nourish the habits of doing mathematics, reading, researching (including reproductions, implementations, etc..), writing (scientific, creative, etc..), exercising (delicious BDNF and hippocampal neurogenesis!), and, of course, programming.
-- I'm am learning about Neural Architecture Search at the moment.
-- I'm am looking to collaborate on reproducing research results or performing experiments stemming from the results of other papers.
+My name is Trevor. I have recently completed my undergraduate studies and received a B.A. in Neuroscience and Mathematics. 
+I am currently trying to focus on:
+- Reproducing machine learning research 
+- Making art: optimization art, collages, three.js stuff, etc...
+- Building up my website: trevormartin.info
+- Making a dataset of fossils and training YOLOv4 on it
+- Increasing my productivity and learning 
 - How to reach me: tmartin2@oberlin.edu
 - Closing remark: Enjoy your day. 
 
